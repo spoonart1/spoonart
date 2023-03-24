@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been working in Software Development more than 10 years, yet it won't stop me to learn new things<br>cause I'm an Android Dev enthusiast.<br>I'm currently learning jetpack compose. I also love about Android Architecture and clean code.<br>I'm currently looking for position where I can give my contribution at the best level I can support.<br>In MOBA gaming most likely I'm a "Support"
+I have been working in Software Development more than 10 years, yet it won't stop me to learn new things<br>cause I'm an Android Dev enthusiast.<br>I'm currently learning jetpack compose. I also love about Android Architecture and clean code.<br>I'm currently looking for position where I can give my contribution at the best level I can support.<br>In MOBA gaming most likely I'm a "Support" or can even be a "Jungler"
 
 
 ## 🌐 Socials:
